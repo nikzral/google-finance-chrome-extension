@@ -1,0 +1,14 @@
+{
+    "manifest_version": 2,
+    "version": "1.0",
+    "name": "Google Finance Ticker Fetch",
+    "description": "An extension to fetch investment data from a ticker.",
+  
+    "browser_action": {
+     
+     "default_popup": "popup.html"
+    },
+    "permissions": [
+     "activeTab"
+     ]
+  }
